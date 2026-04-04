@@ -1,36 +1,46 @@
 <h1 align="center">🌐 yesin.woow</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Content+Creator+%7C+Developer;Follow+for+more+cool+projects!">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="120" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <b>Modern Social Media Landing Page</b><br>
+  <b>✨ Modern Social Media Landing Page ✨</b><br>
   Built with HTML, CSS & JavaScript
 </p>
 
+---
+
 <p align="center">
   <a href="https://yesinwoow.github.io/Social-media/">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-Click Here-blue?style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/github/repo-size/yesinwoow/Social-media?style=for-the-badge">
-  <img src="https://img.shields.io/github/last-commit/yesinwoow/Social-media?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/yesinwoow/Social-media?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/last-commit/yesinwoow/Social-media?style=for-the-badge&color=green">
+  <img src="https://img.shields.io/github/stars/yesinwoow/Social-media?style=for-the-badge&color=yellow">
 </p>
 
 ---
 
 ## 📖 About
-This is a modern and responsive social media landing page designed to showcase all my platforms in one place.
+This is a modern and interactive social media landing page designed to showcase all my profiles in one place with a clean UI and smooth animations.
 
 ---
 
 ## ✨ Features
-- 🌌 Animated particle background
-- 🎨 Glassmorphism UI
-- ⚡ Fast & lightweight
-- 📱 Mobile friendly
-- ⌨️ Typing animation
-- 🔗 Social links integration
+- 🌌 Animated particle background  
+- 🎨 Glassmorphism design  
+- ⚡ Fast & lightweight  
+- 📱 Fully responsive  
+- ⌨️ Typing animation  
+- 🔗 Social media links  
 
 ---
 
@@ -39,15 +49,10 @@ This is a modern and responsive social media landing page designed to showcase a
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript  
-- tsParticles  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
+</p>
 
 ---
 
@@ -58,7 +63,7 @@ This is a modern and responsive social media landing page designed to showcase a
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://facebook.com/yesin.woow">Facebook</a> •
   <a href="https://instagram.com/yesinwoow">Instagram</a> •
@@ -68,10 +73,19 @@ This is a modern and responsive social media landing page designed to showcase a
 
 ---
 
-## ⭐ Support
-If you like this project, give it a ⭐ on GitHub!
+## 👀 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yesinwoow&label=Profile+Views&color=blue&style=for-the-badge" />
+</p>
 
 ---
 
-## 📜 License
-Free to use and open-source.
+## ⭐ Support
+If you like this project, give it a ⭐ and follow me!
+
+---
+
+## 💬 Quote
+<p align="center">
+  "Build simple, but make it powerful."
+</p>
