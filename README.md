@@ -1,11 +1,11 @@
 <h1 align="center">🌐 yesin.woow</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Content+Creator+%7C+Developer;Follow+for+more+cool+projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFD5&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Content+Creator+%7C+Developer;Follow+for+more+cool+projects!">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="120" />
+  <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="120">
 </p>
 
 <p align="center">
@@ -65,17 +65,17 @@ This is a modern and interactive social media landing page designed to showcase 
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com/yesin.woow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30">
+  <a href="https://facebook.com/yesin.woow" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40">
   </a>
-  <a href="https://instagram.com/yesinwoow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30">
+  <a href="https://instagram.com/yesinwoow" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40">
   </a>
-  <a href="https://youtube.com/@yesin-woow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30">
+  <a href="https://youtube.com/@yesin-woow" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40">
   </a>
-  <a href="https://github.com/yesinwoow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30">
+  <a href="https://github.com/yesinwoow" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40">
   </a>
 </p>
 
