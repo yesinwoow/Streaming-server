@@ -8,15 +8,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe!;Frontend+Developer+%7C+Creator;Building+modern+web+experiences!;Follow+for+more+🔥+projects">
 </p>
 
-<!-- 🔥 Profile Image -->
+<h1 align="center">🚀 yesin.woow</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="140" style="border-radius:50%">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world!;Frontend+Developer+%7C+Creator;Building+cool+stuff+on+the+web!">
+</p>
+
+<!-- 🔥 Rounded Profile (WORKING FIX) -->
+<p align="center">
+  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png&mask=circle" width="130">
 </p>
 
 <p align="center">
   <b>✨ Modern Social Media Landing Experience ✨</b><br>
   Crafted with ❤️ using HTML, CSS & JavaScript
 </p>
+
+---
 
 ---
 
@@ -66,18 +74,7 @@ A **modern, interactive & aesthetic social media landing page** designed to show
 
 ---
 
-## 📸 Preview
 
-<h1 align="center">🚀 yesin.woow</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world!;Frontend+Developer+%7C+Creator;Building+cool+stuff+on+the+web!">
-</p>
-
-<!-- 🔥 Rounded Profile (WORKING FIX) -->
-<p align="center">
-  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png&mask=circle" width="130">
-</p>
 
 <p align="center">
   <b>✨ Modern Social Media Landing Experience ✨</b><br>
