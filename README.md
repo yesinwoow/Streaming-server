@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="120" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="120" />
 </p>
 
 <p align="center">
@@ -65,10 +65,18 @@ This is a modern and interactive social media landing page designed to showcase 
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com/yesin.woow">Facebook</a> •
-  <a href="https://instagram.com/yesinwoow">Instagram</a> •
-  <a href="https://youtube.com/@yesin-woow">YouTube</a> •
-  <a href="https://github.com/yesinwoow">GitHub</a>
+  <a href="https://facebook.com/yesin.woow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30">
+  </a>
+  <a href="https://instagram.com/yesinwoow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30">
+  </a>
+  <a href="https://youtube.com/@yesin-woow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30">
+  </a>
+  <a href="https://github.com/yesinwoow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30">
+  </a>
 </p>
 
 ---
