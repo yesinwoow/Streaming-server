@@ -1,6 +1,10 @@
 <h1 align="center">🌐 yesin.woow</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="120" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <b>Modern Social Media Landing Page</b><br>
   Built with HTML, CSS & JavaScript
 </p>
@@ -16,17 +20,17 @@
 ---
 
 ## 📖 About
-This is a modern and responsive social media profile landing page designed to showcase all my platforms in one place.
+This is a modern and responsive social media landing page designed to showcase all my platforms in one place.
 
 ---
 
 ## ✨ Features
-- 🌌 Animated particle background (tsParticles)
-- 🎨 Glassmorphism UI design
-- ⚡ Fast and lightweight
-- 📱 Fully responsive (mobile-friendly)
-- ⌨️ Typing animation effect
-- 🔗 Social media integration
+- 🌌 Animated particle background
+- 🎨 Glassmorphism UI
+- ⚡ Fast & lightweight
+- 📱 Mobile friendly
+- ⌨️ Typing animation
+- 🔗 Social links integration
 
 ---
 
