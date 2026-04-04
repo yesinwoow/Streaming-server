@@ -40,3 +40,38 @@ This is a modern and responsive social media landing page designed to showcase a
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
+- tsParticles  
+
+---
+
+## 📸 Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yesinwoow/Social-media/main/images/profile.png" width="200">
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://facebook.com/yesin.woow">Facebook</a> •
+  <a href="https://instagram.com/yesinwoow">Instagram</a> •
+  <a href="https://youtube.com/@yesin-woow">YouTube</a> •
+  <a href="https://github.com/yesinwoow">GitHub</a>
+</p>
+
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+## 📜 License
+Free to use and open-source.
