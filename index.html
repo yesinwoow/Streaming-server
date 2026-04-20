@@ -1,42 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yesin | Profile</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yesin | Profile</title>
 
-  <!-- CSS -->
-  <link rel="stylesheet" href="css/index.css">
-
-  <!-- Icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
+
 <body>
 
-  <!-- Particle Background -->
-  <div id="tsparticles"></div>
+<div id="tsparticles"></div>
 
-  <div class="container">
-    <div class="card">
+<div class="container">
+  <div class="card">
 
-      <img src="images/profile.png" class="profile-img">
+    <img src="images/profile.png" class="profile-img">
 
-      <h1 id="name"></h1>
-      <p class="bio"> Developer</p>
+    <h1 id="name"></h1>
+    <p class="bio">Developer</p>
+    <p class="status">🟢 Online</p>
 
-      <div class="links">
-        <a href="https://facebook.com/yesin.woow"><i class="fab fa-facebook"></i> Facebook</a>
-        <a href="https://instagram.com/yesinwoow"><i class="fab fa-instagram"></i> Instagram</a>
-        <a href="https://youtube.com/@yesin-woow"><i class="fab fa-youtube"></i> YouTube</a>
-        <a href="https://github.com/yesinwoow"><i class="fab fa-github"></i> GitHub</a>
-      </div>
-
+    <div class="links">
+      <a href="https://facebook.com/yesin.woow" class="facebook"><i class="fab fa-facebook"></i> Facebook</a>
+      <a href="https://instagram.com/yesinwoow" class="instagram"><i class="fab fa-instagram"></i> Instagram</a>
+      <a href="https://youtube.com/@yesin-woow" class="youtube"><i class="fab fa-youtube"></i> YouTube</a>
+      <a href="https://github.com/yesinwoow" class="github"><i class="fab fa-github"></i> GitHub</a>
     </div>
-  </div>
 
-  <!-- Scripts -->
-  <script src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"></script>
-  <script src="js/index.js"></script>
+    <br>
+    <button onclick="copyName()">Copy Username</button>
+
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"></script>
+<script src="js/script.js"></script>
 
 </body>
 </html>

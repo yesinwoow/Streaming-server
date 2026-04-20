@@ -1,19 +1,24 @@
 // Typing effect
 const text = "yesin.woow";
 let i = 0;
-const speed = 100;
 const nameEl = document.getElementById("name");
 
 function typing() {
   if (i < text.length) {
     nameEl.textContent += text.charAt(i);
     i++;
-    setTimeout(typing, speed);
+    setTimeout(typing, 120);
   }
 }
 typing();
 
-// Particle background
+// Copy username
+function copyName() {
+  navigator.clipboard.writeText("yesin.woow");
+  alert("Copied Username!");
+}
+
+// Particles
 tsParticles.load("tsparticles", {
   background: { color: "#0d1117" },
   particles: {
