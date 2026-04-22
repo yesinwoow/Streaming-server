@@ -1,102 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Yesin | Dev Portfolio</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yasin Portfolio</title>
 
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="nav.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
 
 <!-- NAVBAR -->
-<header>
-  <div class="logo">Yesin Arafat</div>
-  <nav>
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="#skills">Skills</a>
-    <a href="#contact">Contact</a>
-  </nav>
-</header>
+<nav class="navbar">
+  <ul class="nav-links">
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#skills">Skills</a></li>
+  </ul>
+</nav>
 
 <!-- HERO -->
-<section id="home" class="hero">
-  <img src="images/profile.png" class="hero-img">
-
-  <h1 id="name"></h1>
-  <p>Full Stack Developer | Python | Flask | JS</p>
-
-  <div class="hero-btns">
-    <a href="#projects">View Work</a>
-    <a href="#contact">Hire Me</a>
+<section class="hero" id="home">
+  <div class="hero-content">
+    <div class="profile">
+  <img src="images/profile.png" alt="Yasin Arafat">
+</div>
+    <h2>Hi, I'm <span>Yasin Arafat</span></h2>
   </div>
 </section>
 
 <!-- ABOUT -->
-<section id="about" class="section">
+<section id="about">
   <h2>About Me</h2>
-  <p>
-    I am a passionate developer who builds modern web apps, Telegram tools, and automation systems.
-    I love clean UI, performance, and creative tech solutions.
-  </p>
+  <div class="cards">
+    <div class="card">
+      <h3>Who I Am</h3>
+      <p>I’m a self-taught web developer with a strong passion for creating modern, responsive, and user-friendly websites. I enjoy turning ideas into real digital experiences using clean code and creative design. My goal is to grow as a full-stack developer and build meaningful products that make an impact.</p>
+    </div>
+    <div class="card">
+      <h3>Goal</h3>
+      <p>To become a professional full-stack developer and build impactful digital products.</p>
+    </div>
+  </div>
 </section>
 
 <!-- PROJECTS -->
-<section id="projects" class="section">
+<section id="projects">
   <h2>Projects</h2>
 
-  <div class="grid">
-
+  <div class="cards">
     <div class="card">
-      <h3>Flask Video App</h3>
-      <p>Streaming server with thumbnails & UI.</p>
+      <h3>Portfolio Website</h3>
+      <p>Modern animated personal portfolio with responsive design.</p>
     </div>
 
     <div class="card">
-      <h3>Telegram Web App</h3>
-      <p>Chat viewer + media downloader system.</p>
+      <h3>Note App</h3>
+      <p>Custom note-taking app with local storage support.</p>
     </div>
-
-    <div class="card">
-      <h3>Portfolio UI</h3>
-      <p>Modern glass UI with animations.</p>
-    </div>
-
   </div>
 </section>
 
 <!-- SKILLS -->
-<section id="skills" class="section">
+<section id="skills">
   <h2>Skills</h2>
 
-  <div class="skills">
-    <span>HTML</span>
-    <span>CSS</span>
-    <span>JavaScript</span>
-    <span>Python</span>
-    <span>Flask</span>
-    <span>GitHub</span>
-    <span>API</span>
+  <div class="cards">
+    <div class="card"><h3>HTML</h3></div>
+    <div class="card"><h3>CSS</h3></div>
+    <div class="card"><h3>JavaScript</h3></div>
   </div>
+
+  <!-- SOCIAL -->
+<div class="social">
+  <a href="#"><i class="fab fa-facebook-f"></i></a>
+  <a href="#"><i class="fab fa-github"></i></a>
+  <a href="#"><i class="fab fa-linkedin-in"></i></a>
+</div>
 </section>
 
-<!-- CONTACT -->
-<section id="contact" class="section">
-  <h2>Contact</h2>
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 Yasin Arafat. All rights reserved.</p>
+</footer>
 
-  <p>Email: yesinwoow@example.com</p>
+<script src="JavaScript/script.js"></script>
 
-  <div class="social">
-    <a href="#"><i class="fab fa-facebook"></i></a>
-    <a href="#"><i class="fab fa-github"></i></a>
-    <a href="#"><i class="fab fa-instagram"></i></a>
-  </div>
-</section>
-
-<script src="js/script.js"></script>
 </body>
 </html>
