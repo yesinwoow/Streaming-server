@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Stream</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+}
+
+header {
+  padding: 15px;
+  background: #111;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h2 {
+  margin: 0;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+  border-radius: 5px;
+  border: none;
+}
+
+.player {
+  padding: 15px;
+}
+
+video {
+  width: 100%;
+  max-height: 60vh;
+  border-radius: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 15px;
+  padding: 15px;
+}
+
+.card {
+  background: #1a1a1a;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.card:hover {
+  background: #333;
+}
+
+.card p {
+  font-size: 14px;
+  word-break: break-word;
+}
+
+@media (max-width: 600px) {
+  input {
+    width: 120px;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h2>🎬 My Stream</h2>
+  <form method="GET">
+    <input type="text" name="search" placeholder="Search..." value="{{ search }}">
+  </form>
+</header>
+
+<div class="player" id="player">
+  <p>Select a video to play</p>
+</div>
+
+<div class="grid">
+  {% for video in videos %}
+  <div class="card" onclick="playVideo('{{ video }}')">
+    <p>{{ video }}</p>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+function playVideo(name) {
+  const player = document.getElementById('player');
+  player.innerHTML = `
+    <video controls autoplay>
+      <source src="/video/${name}" type="video/mp4">
+      Your browser does not support video.
+    </video>
+  `;
+}
+</script>
+
+</body>
+</html>
